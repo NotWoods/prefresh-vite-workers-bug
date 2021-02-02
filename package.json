@@ -1,0 +1,9 @@
+{
+  "name": "prefresh-vite-workers",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm run dev --filter @minimal/client"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

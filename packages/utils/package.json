@@ -1,0 +1,12 @@
+{
+  "name": "@minimal/utils",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}
