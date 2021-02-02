@@ -1,4 +1,4 @@
-import Worker from './worker/index?worker'
+import Worker from '../worker/index?worker'
 
 const worker = new Worker();
 worker.onmessage = (evt) => console.log(evt.data);

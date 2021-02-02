@@ -1,6 +1,4 @@
-import { memoize } from '@minimal/utils'
-
-const test = memoize(() => {})
+class Test {}
 
 self.postMessage('hello')
 self.postMessage(value)
