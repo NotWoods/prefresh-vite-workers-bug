@@ -7,13 +7,11 @@ importers:
       tslib: 2.1.0
     devDependencies:
       '@prefresh/vite': 2.0.3_vite@2.0.0-beta.61
-      typescript: 4.1.3
       vite: 2.0.0-beta.61
     specifiers:
       '@minimal/utils': 'workspace:*'
       '@prefresh/vite': ^2.0.3
       tslib: ^2.1.0
-      typescript: 4.1.3
       vite: ^2.0.0-beta.61
   packages/utils:
     dependencies:
